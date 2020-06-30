@@ -18,7 +18,7 @@ class List extends React.Component {
 
   async componentDidMount() {
     //const res = await fetch("../../assets/data.json");
-    const res = await fetch(`${API}&s=batman`);
+    const res = await fetch(`${API}&s=Spider-man`);
     const resJSON = await res.json();
     this.setState({ data: resJSON.Search, loading: false });
   }
