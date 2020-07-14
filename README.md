@@ -6,4 +6,4 @@ Project to experiment with external APIs.
 
 This time I worked with an API from the OMDB site, which is a catalog of movies.
 
-![crunchflix](https://github.com/jorgeoxi/crunchflix/blob/master/docs/crunchflix_view.PNG?raw=true)
+![crunchflix](https://github.com/jorgeoxi/crunchflix/blob/master/docs/crunchflix_view.png?raw=true)
